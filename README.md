@@ -1,3 +1,29 @@
+# OCRmyPDF
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+为扫描 PDF 添加 OCR 文本层，使其可检索。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- SPDX-FileCopyrightText: 2014 Julien Pfefferkorn -->
 <!-- SPDX-FileCopyrightText: 2015 James R. Barlow -->
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
